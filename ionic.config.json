@@ -1,0 +1,8 @@
+{
+  "name": "WooCommerce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5bb235e4"
+}
